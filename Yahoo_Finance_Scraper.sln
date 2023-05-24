@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Yahoo_Finance_Scraper", "Yahoo_Finance_Scraper.pyproj", "{B631D64F-1918-48E8-A03A-917C88623182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B631D64F-1918-48E8-A03A-917C88623182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B631D64F-1918-48E8-A03A-917C88623182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAD5B06-50FA-4A08-AB0E-E01752B1FE05}
+	EndGlobalSection
+EndGlobal
